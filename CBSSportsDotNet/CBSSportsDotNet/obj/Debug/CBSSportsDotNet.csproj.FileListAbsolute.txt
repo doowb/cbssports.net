@@ -1,0 +1,5 @@
+C:\Dev\Misc\cbssports.net\CBSSportsDotNet\CBSSportsDotNet\obj\Debug\CBSSportsDotNet.csprojResolveAssemblyReference.cache
+C:\Dev\Misc\cbssports.net\CBSSportsDotNet\CBSSportsDotNet\bin\Debug\CBSSportsDotNet.dll
+C:\Dev\Misc\cbssports.net\CBSSportsDotNet\CBSSportsDotNet\bin\Debug\CBSSportsDotNet.pdb
+C:\Dev\Misc\cbssports.net\CBSSportsDotNet\CBSSportsDotNet\obj\Debug\CBSSportsDotNet.dll
+C:\Dev\Misc\cbssports.net\CBSSportsDotNet\CBSSportsDotNet\obj\Debug\CBSSportsDotNet.pdb
